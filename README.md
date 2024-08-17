@@ -17,9 +17,8 @@
 
 ## Installation
 
-1. Clone or download this repository to your local machine.
-2. Copy the `ScriptAnalyzer.cs` file into your Unity project's `Editor` folder (create it if it doesn't exist).
-3. Open Unity. The `Script Analyzer` tool will be available under the `Tools` menu.
+1. Copy the `ScriptAnalyzer.cs` file into your Unity project's `Editor` folder (create it if it doesn't exist).
+2. Open Unity. The `Script Analyzer` tool will be available under the `Tools` menu.
 
 ## Usage
 
@@ -29,6 +28,13 @@
 4. Click `Analyze` to start the analysis.
 5. The results will be displayed in a table with sortable columns. Click on column headers to sort by the respective metric.
 6. Below the table, view code snippets where the keyword appears. Click `Open` to jump directly to the line in the code.
+
+## ScreenShots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8837664-6779-4160-8932-280b9bd5f239" alt="Screenshot 1" height="250"/>
+  <img src="https://github.com/user-attachments/assets/ac51693d-6121-4296-8726-d5850c1300ba" alt="Screenshot 2" height="250"/>
+  <img src="https://github.com/user-attachments/assets/f87e869d-06b3-4d45-8492-9e207391d7ab" alt="Screenshot 3" height="250"/>
+</p>
 
 ## Contributing
 
